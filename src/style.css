@@ -1,7 +1,7 @@
-.blocks {
+.fieldset-box {
   margin-bottom: 20px;
 }
 
-.input-class:not(:last-child) {
+.input-form:not(:last-child) {
   margin-bottom: 10px;
 }
